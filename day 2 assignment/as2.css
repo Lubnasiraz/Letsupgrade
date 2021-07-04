@@ -1,0 +1,11 @@
+.box{
+    background-color:gray;
+    border:2px solid rgb(112, 112, 106);
+}
+
+.para{
+    background-color: black;
+    color: blanchedalmond;
+    font-size: 30px;
+    font-family:'Times New Roman', Times, serif;
+}
